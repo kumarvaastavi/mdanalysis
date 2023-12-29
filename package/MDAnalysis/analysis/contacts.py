@@ -207,7 +207,6 @@ Classes
 """
 import os
 import errno
-import warnings
 import bz2
 import functools
 
